@@ -9,6 +9,7 @@
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
+  "homepage": "https://nikhilsiem.github.io/leaderboard",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
